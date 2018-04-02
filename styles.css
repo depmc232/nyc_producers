@@ -1,0 +1,133 @@
+.map-wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+.name-search {
+  position: absolute;
+  right: 15px;
+  bottom: 100px;
+}
+.layer-picker {
+  position: absolute;
+  right: 15px;
+  top: 100px;
+  z-index: 20000;
+}
+
+
+
+h1 {
+  color: white;
+  font-family:calibri
+}
+a {
+    color: white;
+    font-size: 15px;
+}
+
+body {
+    background-color: #195129
+}  
+
+p {
+   font-family:calibri 
+} 
+
+span {
+  color:white
+}
+
+.highlight{
+  background-color: #195129
+}
+
+h2 {
+  font-family: calibri
+}
+
+h3 {
+  font-family: calibri
+}
+
+.box {
+  opacity:1 
+}
+
+.box {
+  border:2px solid;
+  height:500px;
+  padding: 10px;
+  position: static;
+  center: 200px;
+  top: 100px;
+  z-index: 5000;
+}
+
+/*.container {
+  background:url('https://cdn.glitch.com/f4bd4c35-48bf-441e-b9cb-00416266eacf%2FUnion-Square-Greenmarket-May-18-2013.jpg?1519836971586') no-repeat center top
+}
+.container {
+  border:2px solid;
+  cursor: default;
+  font-size: 24px;
+  width: 400px;
+  height:300px;
+  padding: 10px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
+  z-index: 5000;
+}
+.container2 {
+  background:url('https://cdn.glitch.com/f4bd4c35-48bf-441e-b9cb-00416266eacf%2FFurrow-Horse-veggie-rows_cropped%20(1).jpg?1520447149019') no-repeat center top
+}
+.container2 {
+  border:2px solid;
+  cursor: default;
+  font-size: 24px;
+  width: 400px;
+  height:300px;
+  padding: 10px;
+  position: absolute;
+  right: 200px;
+  top: 100px;
+  z-index: 5000;
+}*/
+
+/*.pic {
+  height: 100%;
+  width: 100%;
+}
+
+.overlay {
+  background:url('https://cdn.glitch.com/f4bd4c35-48bf-441e-b9cb-00416266eacf%2FWhy-Dirt-Matters-576x360.jpg?1520443771903') no-repeat center top
+}
+.overlay {
+  font-size: 20px;
+  width: 250px;
+  padding: 5px;
+  position: absolute;
+  right: 10px;
+  bottom: -75px;
+  z-index: 5000;
+}
+
+.inset {
+  background: white
+}
+.inset {
+  width: 200px;
+  font-size:15px;
+  padding:.5px
+}*/
+
+.map {
+  padding: 20px;
+  margin:100
+}  
