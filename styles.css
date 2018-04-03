@@ -8,10 +8,11 @@
   height: 100%;
   width: 100%;
 }
-.name-search {
+.product-search {
   position: absolute;
+  top: 15px;
   right: 15px;
-  bottom: 100px;
+  z-index: 10000;
 }
 .layer-picker {
   position: absolute;
